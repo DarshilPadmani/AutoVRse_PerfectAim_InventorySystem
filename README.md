@@ -1,12 +1,12 @@
 # 🎯 Perfect Aim — VR Target Practice Game
 
-**Perfect Aim** is a fun and immersive VR game where players test their precision by throwing balls to hit moving targets. Each perfect hit scores you +10 points — aim smart, throw fast, and rack up the highest score before time runs out!
+**Perfect Aim** is a fun and immersive VR game where players test their precision by throwing items to hit moving targets. Each perfect hit scores you +10 points — aim smart, throw fast, and rack up the highest score before time runs out!
 
 ---
 
 ## 🕹️ Gameplay Overview
 
-- Pick up and throw balls at the target.
+- Pick up items(fruits, cakes) and hit at the target.
 - Each successful hit gives **+10 points**.
 - Keep your accuracy sharp and maximize your score.
 - Smooth physics-based interaction built for VR.
@@ -51,8 +51,8 @@
 
 ## 🎮 How to Play
 
-1. Grab a ball using your VR controller.  
-2. Aim at the target and throw!  
+1. Grab a items(fruits, cakes, utensils) that are on the ground using your VR controller.  
+2. Aim at the spawining target and throw!  
 3. Each hit gives +10 points.  
 4. Beat the timer and chase your high score.  
 
